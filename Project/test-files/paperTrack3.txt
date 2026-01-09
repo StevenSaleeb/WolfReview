@@ -1,0 +1,7 @@
+# ,12,15
+* 2,Submitted,S. Carol; M. Hill,Abstract,false,,
+* 3,Closed,P. Kathleen; S. Gillespie,FullPaper,true,,Rejected
+* 4,Reviewing,anonymous,Abstract,false,reviewer1,
+* 7,Revising,anonymous,FullPaper,false,,
+* 8,Registering,F. Benjamin; A. Nieves,FullPaper,true,,
+* 11,Submitted,anonymous,FullPaper,true,reviewer2,WeakAcceptRecommendation

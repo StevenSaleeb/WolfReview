@@ -1,0 +1,24 @@
+# Research Track,10,11
+* 1,Reviewing,anonymous,Abstract,false,reviewer1,
+* 2,Closed,B. Cailin; S. Roach,Abstract,false,,Duplicate
+* 5,Submitted,C. Craig;T. Armstrong,Abstract,false,,
+* 7,Submitted,anonymous,FullPaper,true,reviewer2,StrongAcceptRecommendation
+* 25,Revising,anonymous,FullPaper,false,,
+* 3,Registering,K. Eagan;P. Cardenas,FullPaper,true,,
+* 4,Closed,D. Ferdinand;T. Acevedo,FullPaper,false,,Withdrawn
+* 5,Reviewing,anonymous,FullPaper,false,reviewer2,
+# Position paper,12,15
+* 2,Submitted,D. Carol; P. Schmidt,FullPaper,false,,
+* 3,Closed,B. Kathleen; N. Gillespie,FullPaper,true,,Accepted
+* 4,Submitted,anonymous,Abstract,true,reviewer1,WeakAcceptRecommendation
+* 7,Closed,D. Sanders; T. McDonald,Abstract,true,,Rejected
+* 8,Reviewing,anonymous,FullPaper,false,reviewer4,
+* 11,Revising,anonymous,FullPaper,false,,
+# Experience report,8,15
+* 4,Reviewing,D. Sanders; T. McDonald,Abstract,false,jdyoung2,
+* 5,Closed,K. Mcguire; T. Hill,FullPaper,true,,Withdrawn
+* 7,Submitted,M. Atkins; T. Potter,FullPaper,false,,
+* 8,Registering,P. Nehru; O. Hill,FullPaper,true,,
+# Curricula Initiative,15,16
+* 7,Reviewing,anonymous,Abstract,false,tmbarnes,
+* 3,Submitted,anonymous,FullPaper,true,reviewer3,StrongRejectRecommendation

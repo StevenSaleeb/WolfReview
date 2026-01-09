@@ -1,0 +1,9 @@
+# Paper Track A,18,20
+* 2,Submitted,anonymous,FullPaper,true,reviewer2,StrongAcceptRecommendation
+* 3,Reviewing,anonymous,Abstract,false,reviewer1,
+# Paper Track B,10,12
+* 7,Revising,anonymous,FullPaper,false,,
+* 8,Registering,K. Eagan;P. Cardenas,FullPaper,true,,
+* 11,Closed,D. Ferdinand;T. Acevedo,FullPaper,false,,Withdrawn
+# Paper Track D,11,11
+* 2,Submitted,C. Allen; T. Hill,Abstract,false,,
